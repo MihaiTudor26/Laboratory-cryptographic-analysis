@@ -6,7 +6,7 @@
 
 📒laboratory_3.py: Reverse Cipher and Caesar Cipher
 
-📒laboratory_4.py: We implement the Brute Force method for cCaesar Cipher.
+📒laboratory_4.py: We implement the Brute Force method for Caesar Cipher.
 
 📒laboratory_5.py: Shift Ciphers.
 
